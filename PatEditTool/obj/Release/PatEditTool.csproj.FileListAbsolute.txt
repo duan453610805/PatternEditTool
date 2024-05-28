@@ -1,0 +1,9 @@
+D:\MyWork\Teradyne\Tool\MyTool\PatternEdit\PatEditTool\PatEditTool\bin\Release\PatEditTool.exe.config
+D:\MyWork\Teradyne\Tool\MyTool\PatternEdit\PatEditTool\PatEditTool\bin\Release\PatEditTool.exe
+D:\MyWork\Teradyne\Tool\MyTool\PatternEdit\PatEditTool\PatEditTool\bin\Release\PatEditTool.pdb
+D:\MyWork\Teradyne\Tool\MyTool\PatternEdit\PatEditTool\PatEditTool\obj\Release\PatEditTool.Form1.resources
+D:\MyWork\Teradyne\Tool\MyTool\PatternEdit\PatEditTool\PatEditTool\obj\Release\PatEditTool.Properties.Resources.resources
+D:\MyWork\Teradyne\Tool\MyTool\PatternEdit\PatEditTool\PatEditTool\obj\Release\PatEditTool.csproj.GenerateResource.cache
+D:\MyWork\Teradyne\Tool\MyTool\PatternEdit\PatEditTool\PatEditTool\obj\Release\PatEditTool.csproj.CoreCompileInputs.cache
+D:\MyWork\Teradyne\Tool\MyTool\PatternEdit\PatEditTool\PatEditTool\obj\Release\PatEditTool.exe
+D:\MyWork\Teradyne\Tool\MyTool\PatternEdit\PatEditTool\PatEditTool\obj\Release\PatEditTool.pdb
